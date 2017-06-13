@@ -1,1 +1,11 @@
 D:\School\Toets C# computer\ALL-IN database application\ALL-IN database application\bin\Debug\ALL-IN database application.exe.config
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\bin\Debug\ALL-IN database application.exe.config
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\bin\Debug\ALL-IN database application.exe
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\bin\Debug\ALL-IN database application.pdb
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\obj\Debug\ALL-IN database application.csprojResolveAssemblyReference.cache
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\obj\Debug\ALL_IN_database_application.Form1.resources
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\obj\Debug\ALL_IN_database_application.Properties.Resources.resources
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\obj\Debug\ALL-IN database application.csproj.GenerateResource.Cache
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\obj\Debug\ALL-IN database application.exe
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\obj\Debug\ALL-IN database application.pdb
+D:\School\Periode 4 16-17\Eindproject\ALL-IN database application\ALL-IN database application\bin\Debug\MySql.Data.dll
