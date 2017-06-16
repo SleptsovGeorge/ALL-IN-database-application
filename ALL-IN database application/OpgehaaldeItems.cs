@@ -8,5 +8,11 @@ namespace ALL_IN_database_application
 {
     class OpgehaaldeItems
     {
+        public double kosten { get; set; }
+
+        public OpgehaaldeItems()
+        {
+
+        }
     }
 }
